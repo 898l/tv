@@ -1,0 +1,345 @@
+[
+  {
+    "key": "fantaiying_main",
+    "name": "饭太硬主站",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://www.饭太硬.com/tv"
+  },
+  {
+    "key": "fantaiying_backup",
+    "name": "饭太硬备用",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://饭太硬.top/tv"
+  },
+  {
+    "key": "fantaiying_mirror1",
+    "name": "饭太硬镜像1",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://fan.xxooo.cf/tv"
+  },
+  {
+    "key": "fantaiying_mirror2",
+    "name": "饭太硬镜像2",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://fty.888484.xyz/tv"
+  },
+  {
+    "key": "feimao_main",
+    "name": "肥猫主站",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://肥猫.com/"
+  },
+  {
+    "key": "feimao_backup",
+    "name": "肥猫备用",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://肥猫.live"
+  },
+  {
+    "key": "feimao_internal",
+    "name": "肥猫内部",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://我不是.肥猫.love:63/接口禁止贩卖"
+  },
+  {
+    "key": "qist_jsm",
+    "name": "qist主配置",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"
+  },
+  {
+    "key": "qist_fty",
+    "name": "qist饭太硬配置",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/qist/tvbox/master/fty.json"
+  },
+  {
+    "key": "qist_0821",
+    "name": "qist 0821",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/qist/tvbox/master/0821.json"
+  },
+  {
+    "key": "qist_0825",
+    "name": "qist 0825",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/qist/tvbox/master/0825.json"
+  },
+  {
+    "key": "qist_0826",
+    "name": "qist 0826",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/qist/tvbox/master/0826.json"
+  },
+  {
+    "key": "qist_0827",
+    "name": "qist 0827",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/qist/tvbox/master/0827.json"
+  },
+  {
+    "key": "qist_xyq",
+    "name": "qist XYQ",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/qist/tvbox/master/XYQ.json"
+  },
+  {
+    "key": "qist_9918",
+    "name": "qist 9918",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/qist/tvbox/master/9918.json"
+  },
+  {
+    "key": "gaotian_0825",
+    "name": "高天流云0825",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"
+  },
+  {
+    "key": "gaotian_0821",
+    "name": "高天流云0821",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json"
+  },
+  {
+    "key": "gaotian_0826",
+    "name": "高天流云0826",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json"
+  },
+  {
+    "key": "gaotian_0827",
+    "name": "高天流云0827",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"
+  },
+  {
+    "key": "gaotian_xyq",
+    "name": "高天流云XYQ",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
+  },
+  {
+    "key": "pyramid_py",
+    "name": "PyramidStore主配置",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json"
+  },
+  {
+    "key": "2hacc_oktv",
+    "name": "2hacc OK影视",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/2hacc/TVBox/main/oktv.json"
+  },
+  {
+    "key": "2hacc_tvbox",
+    "name": "2hacc主配置",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json"
+  },
+  {
+    "key": "candymuj",
+    "name": "CandyMuj自用",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json"
+  },
+  {
+    "key": "junyu_top98",
+    "name": "俊于自用",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://home.jundie.top:81/top98.json"
+  },
+  {
+    "key": "qiaoji_tvbox",
+    "name": "巧技多仓",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://cdn.qiaoji8.com/tvbox.json"
+  },
+  {
+    "key": "ok_ok",
+    "name": "OK影视接口",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://ok213.top/ok"
+  },
+  {
+    "key": "ouge_main",
+    "name": "欧歌主站",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://tv.nxog.top"
+  },
+  {
+    "key": "ouge_dianbo",
+    "name": "欧歌点播专用",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://m.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"
+  },
+  {
+    "key": "ouge_vip",
+    "name": "欧歌VIP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://vip.nxog.top/"
+  },
+  {
+    "key": "moyuer_backup",
+    "name": "摸鱼儿备用",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://我不是.摸鱼儿.top"
+  },
+  {
+    "key": "wang2_backup",
+    "name": "王二小备用",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://tvbox.王二小放牛娃.xyz"
+  },
+  {
+    "key": "cainisi",
+    "name": "菜妮丝",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://tvbox.cainisi.cf"
+  },
+  {
+    "key": "liucn_m",
+    "name": "liucn主配置",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.liucn.cc/box/m.json"
+  },
+  {
+    "key": "pastebin_gtb",
+    "name": "pastebin配置1",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://pastebin.com/raw/gtbKvnE1"
+  },
+  {
+    "key": "pastebin_sbp",
+    "name": "pastebin配置2",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://pastebin.com/raw/sbPpDm9G"
+  },
+  {
+    "key": "leezn_js",
+    "name": "leezn js",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://leezn.eu.org/TVBox/js.json"
+  },
+  {
+    "key": "jyoketsu_m",
+    "name": "jyoketsu配置",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://cdn.jsdelivr.net/gh/jyoketsu/tv@main/m.json"
+  },
+  {
+    "key": "c120487_0515",
+    "name": "c120487 0515",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/c120487/00/main/0515.txt"
+  },
+  {
+    "key": "c120487_1028",
+    "name": "c120487 1028",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/c120487/00/main/1028.txt"
+  },
+  {
+    "key": "c120487_00tv1",
+    "name": "c120487主配置",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/c120487/00/main/00tv1.txt"
+  },
+  {
+    "key": "franksun_test2",
+    "name": "franksun1211",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/test2.txt"
+  },
+  {
+    "key": "pdscxz_tv4k",
+    "name": "pdscxz 4K",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/pdscxz/TV/main/video/tv4k.json"
+  },
+  {
+    "key": "jixiejishu_dan",
+    "name": "单线路合集",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://cdn.jsdelivr.net/gh/jixiejishu/tvboxinformation@main/tvboxtools/jk/dan/单线路.txt"
+  },
+  {
+    "key": "zpc_zx",
+    "name": "zx配置",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://ghfast.top/https://raw.githubusercontent.com/zpc19870602/live/master/zx.txt"
+  },
+  {
+    "key": "ok_tv",
+    "name": "OK影视TV接口",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://ok213.top/tv"
+  },
+  {
+    "key": "dxawi_0",
+    "name": "dxawi主配置",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/dxawi/0/main/0.json"
+  },
+  {
+    "key": "yueguang_baohe",
+    "name": "月光宝盒",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒"
+  },
+  {
+    "key": "gaotian_fongmi",
+    "name": "高天流云FongMi",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json"
+  }
+]
